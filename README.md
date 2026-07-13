@@ -171,3 +171,9 @@ real healthcare or insurance decisions.
 ## License
 
 MIT
+
+---
+
+## How it works
+
+The system processes each patient request through a multi-step AI workflow. First, the Intake Agent extracts structured information such as symptoms, duration, and demographics from the patient's free-text input. Next, the Eligibility Agent retrieves relevant insurance policy information using RAG to determine coverage and authorization requirements. The extracted clinical features are then passed to a PyTorch risk classifier, which predicts the patient's urgency level (low, medium, or high). Finally, LangGraph orchestrates the workflow by combining the insurance eligibility and risk assessment to either generate a prior-authorization decision (approve/deny) or route high-risk or ambiguous cases to a human review step, simulating a real-world healthcare decision-making pipeline.
