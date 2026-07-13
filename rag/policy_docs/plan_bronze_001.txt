@@ -1,0 +1,19 @@
+PLAN_BRONZE_001 - Coverage Policy (Synthetic, for demo purposes only)
+
+Plan Tier: Bronze
+Prior Authorization Required For:
+- All emergency room visits except high-risk presentations
+- All imaging studies
+- All specialist visits
+- Any procedure with an estimated cost over $200
+
+Prior Authorization NOT Required For:
+- High-risk emergency presentations only (chest pain, stroke symptoms, severe
+  trauma, active labor, loss of consciousness)
+
+Coverage Notes:
+- Bronze tier members have a $3,000 deductible and 60% coinsurance after deductible.
+- Low-risk cases are frequently denied prior authorization and redirected to
+  urgent care or telehealth instead of ER.
+- Medium-risk cases require escalation to a human reviewer; auto-approval is
+  not permitted for this tier.

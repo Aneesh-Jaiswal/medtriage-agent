@@ -1,0 +1,17 @@
+PLAN_GOLD_001 - Coverage Policy (Synthetic, for demo purposes only)
+
+Plan Tier: Gold
+Prior Authorization Required For:
+- Emergency room visits classified as non-life-threatening (low/medium risk)
+- Elective surgical procedures
+- Advanced imaging (MRI, CT) for non-trauma indications
+
+Prior Authorization NOT Required For:
+- High-risk emergency presentations (chest pain, stroke symptoms, severe trauma)
+- Routine primary care visits
+- Prescription refills for chronic maintenance medications
+
+Coverage Notes:
+- Gold tier members have a $250 deductible and 90% coinsurance after deductible.
+- Out-of-network emergency care is covered at in-network rates for high-risk cases.
+- Follow-up visits within 30 days of an ER visit do not require separate authorization.

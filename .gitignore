@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Env / secrets
+.env
+
+# Model artifacts
+models/checkpoints/*.pt
+
+# Vector store
+rag/chroma_store/
+
+# Synthetic data (regenerable)
+data/synthetic/patients.csv
+data/synthetic/patients.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

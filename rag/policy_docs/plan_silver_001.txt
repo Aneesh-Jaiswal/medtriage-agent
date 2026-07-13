@@ -1,0 +1,19 @@
+PLAN_SILVER_001 - Coverage Policy (Synthetic, for demo purposes only)
+
+Plan Tier: Silver
+Prior Authorization Required For:
+- All non-high-risk emergency room visits
+- Advanced imaging (MRI, CT, PET)
+- Specialist referrals outside of primary care network
+- Durable medical equipment over $500
+
+Prior Authorization NOT Required For:
+- High-risk emergency presentations (chest pain, stroke symptoms, severe trauma,
+  suspected fractures with visible deformity)
+- Annual wellness visits
+
+Coverage Notes:
+- Silver tier members have a $1,000 deductible and 80% coinsurance after deductible.
+- Requests for medium-risk cases require documentation of symptom duration and
+  a physician recommendation before approval.
+- Denials may be appealed within 30 days with additional clinical documentation.
